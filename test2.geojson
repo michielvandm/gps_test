@@ -3,456 +3,168 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.039882,
-          38.898321
-        ]
-      },
       "properties": {
-        "marker-symbol": "bar",
-        "name": "The Exchange",
-        "address": "1719 G St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.038193,
-          38.901345
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Blackfin",
-        "address": "1620 I St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.03195,
-          38.907826
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Churchkey",
-        "address": "1337 14th St NW",
-        "note": "Ask the bartender for the password"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.018728,
-          38.902708
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Busboys and Poets",
-        "address": "1025 5th St NW, Washington DC, 20001"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.047745,
-          38.909637
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "SoHo Cafe",
-        "address": "2150 P St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.018627,
-          38.899924
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Chinatown Coffee Company",
-        "address": "475 H St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.04345,
-          38.905342
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Science Club",
-        "address": "1136 19th St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.027744,
-          38.929675
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Wonderland Ballroom",
-        "address": "  1101 Kenyon St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.031888,
-          38.930366
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Sticky Fingers Bakery",
-        "address": "1370 Park Rd NW, Washington, DC 20010"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.940028,
-          38.954998
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Busboys and Poets",
-        "address": "5331 Baltimore Ave, Hyattsville, MD 20781"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.031863,
-          38.917992
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Busboys and Poets",
-        "address": "2021 14th St NW, Washington, DC 20009"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.042438,
-          38.921894
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Tryst",
-        "address": "2459 18th St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.09089599999999,
-          38.88924
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Arlington Pub at Whole Foods Market",
-        "address": "2700 Wilson Blvd, Arlington, VA 22201"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.1080128,
-          38.8801218
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Buzz Bakery Coffee & Lounge",
-        "address": "818 N Quincy St, Arlington, VA 22203"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.097225,
-          38.8859
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Northside Social",
-        "address": "3211 Wilson Blvd, Arlington, VA 22201"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.1080128,
-          38.8801218
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Buzz Bakery Coffee & Lounge",
-        "address": "818 N Quincy St, Arlington, VA 22203"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0866120204082,
-          38.8627485306122
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Twisted Vines Bottleshop & Bistro",
-        "address": "2803 Columbia Pike, Arlington, VA 22204"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.089559,
-          38.841205
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Busboys and Poets",
-        "address": "4251 Campbell Ave, Arlington, VA 22206"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.045067,
-          38.821598
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Buzz Bakery Coffee & Lounge",
-        "address": "901 Slaters Lane, Alexandria, VA 22314"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.012659,
-          38.915561
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Boundary Stone Public House",
-        "address": "116 Rhode Island Ave NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Bistro Bohem",
-        "address": "600 Florida Ave Nw"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -77.02017903327942,
-          38.91535424264446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.011702,
-          38.915533
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Rustik Neighborhood Tavern",
-        "address": "84 T St. NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Old Ebbitt",
-        "address": "675 15th St NW",
-        "note": "Ask the bartender for the WiFi password"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.033644,
-          38.898077
+          [
+            [
+              4.500175416469574,
+              51.164310173311726
+            ],
+            [
+              4.498132914304732,
+              51.16373240813664
+            ],
+            [
+              4.498182535171509,
+              51.16367269691262
+            ],
+            [
+              4.500221014022827,
+              51.16426812368872
+            ],
+            [
+              4.500175416469574,
+              51.164310173311726
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "bar",
-        "name": "BlackJack",
-        "address": "1612 14th St NW",
-        "note": "WiFi password is blackjack"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 0.5,
+        "fill": "#555555",
+        "fill-opacity": 0.5
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -77.03195,
-          38.911532
+          [
+            [
+              4.565870761871338,
+              51.12749872733887
+            ],
+            [
+              4.5699262619018555,
+              51.126125112781956
+            ],
+            [
+              4.573509693145752,
+              51.126394452189295
+            ],
+            [
+              4.578230381011963,
+              51.126367518319235
+            ],
+            [
+              4.580419063568115,
+              51.12635405137831
+            ],
+            [
+              4.581663608551025,
+              51.12691965951618
+            ],
+            [
+              4.582006931304932,
+              51.12755259374398
+            ],
+            [
+              4.582006931304932,
+              51.12832018319069
+            ],
+            [
+              4.581856727600098,
+              51.1295860045878
+            ],
+            [
+              4.581406116485596,
+              51.130595943584886
+            ],
+            [
+              4.5809125900268555,
+              51.131592395082585
+            ],
+            [
+              4.580526351928711,
+              51.132319521795246
+            ],
+            [
+              4.577994346618652,
+              51.13387472660855
+            ],
+            [
+              4.5764172077178955,
+              51.1351201991861
+            ],
+            [
+              4.575440883636475,
+              51.13580687780768
+            ],
+            [
+              4.573788642883301,
+              51.13672243341769
+            ],
+            [
+              4.572587013244629,
+              51.1371532768346
+            ],
+            [
+              4.571610689163208,
+              51.13779280261846
+            ],
+            [
+              4.569894075393677,
+              51.137476406758864
+            ],
+            [
+              4.566117525100708,
+              51.136224265705096
+            ],
+            [
+              4.564121961593628,
+              51.13494516182572
+            ],
+            [
+              4.563027620315552,
+              51.13360543082339
+            ],
+            [
+              4.5625340938568115,
+              51.1321714043194
+            ],
+            [
+              4.5622980594635,
+              51.13098644740945
+            ],
+            [
+              4.562920331954956,
+              51.12981492602952
+            ],
+            [
+              4.563939571380615,
+              51.12877130436967
+            ],
+            [
+              4.564626216888428,
+              51.128044121788506
+            ],
+            [
+              4.565870761871338,
+              51.12749872733887
+            ]
+          ]
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.027646,
-          38.900769
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Capitol City Brewing Company",
-        "address": "1100 New York Ave NW",
-        "note": "Ask the bartender for the password"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.036554,
-          38.900201
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Off The Record",
-        "address": "800 16th St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.071309,
-          38.919986
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "breadsoda",
-        "address": "2233 Wisconsin Ave NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.042084,
-          38.906459
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "St. Arnold's on Jefferson",
-        "address": "1827 Jefferson Pl NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.02862,
-          38.931821
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Meridian Pint",
-        "address": "3400 11th St NW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.070275,
-          38.906094
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "The Tombs",
-        "address": "1226 36th St NW"
       }
     }
   ]
